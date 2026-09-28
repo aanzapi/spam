@@ -1,0 +1,14 @@
+{
+  "name": "mspambot",
+  "version": "1.0.0",
+  "description": "Infinite OTP spammer - Node.js port",
+  "main": "spam.js",
+  "scripts": {
+    "start": "node spam.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "author": "Ricky Khairul Faza",
+  "license": "MIT"
+}
